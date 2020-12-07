@@ -1,0 +1,8 @@
+{
+  "variants": {
+     "facing=north": {"model": "focuscraft:block/focus_table_wood"},
+     "facing=east": {"model": "focuscraft:block/focus_table_wood", "y":  90},
+     "facing=south": {"model": "focuscraft:block/focus_table_wood", "y":  180},
+     "facing=west": {"model": "focuscraft:block/focus_table_wood", "y":  270}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "focuscraft:crystal"
+    },
+    {
+      "item": "focuscraft:crystal"
+    },
+    {
+      "item": "focuscraft:crystal"
+    },
+    {
+      "item": "focuscraft:crystal"
+    }
+  ],
+  "result": {
+    "item": "focuscraft:crystal_block",
+    "count": 1
+  }
+}

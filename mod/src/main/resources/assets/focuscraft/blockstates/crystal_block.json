@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north":  { "model": "focuscraft:block/crystal_block" },
+    "facing=east":   { "model": "focuscraft:block/crystal_block" , "y":  90},
+    "facing=south":  { "model": "focuscraft:block/crystal_block" , "y":  180},
+    "facing=west":   { "model": "focuscraft:block/crystal_block" , "y":  270}
+  }
+}

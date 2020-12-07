@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "focuscraft:blocks/crystal_block_alt",
+    "north": "focuscraft:blocks/crystal_block_alt",
+    "east": "focuscraft:blocks/crystal_block_alt",
+    "west": "focuscraft:blocks/crystal_block_alt",
+    "south": "focuscraft:blocks/crystal_block_alt",
+    "up": "focuscraft:blocks/crystal_block_alt",
+    "particle": "focuscraft:blocks/crystal_block_alt"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " S ",
+    "SSS",
+    " H "
+  ],
+  "key":
+  {
+    "S":
+    {
+      "item": "minecraft:oak_slab"
+    },
+    "H":
+    {
+      "item": "focuscraft:lens_holder"
+    }
+  },
+  "result":
+  {
+    "item": "focuscraft:focus_table_wood",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "item.focuscraft.crystal": "Focus Crystal",
+  "item.focuscraft.lens_holder": "Lens Holder",
+  "item.focuscraft.lens_wood": "Wooden Lens",
+  "item.focuscraft.lens_stone": "Stone Lens",
+  "block.focuscraft.crystal_block": "Focus Crystal Block",
+  "block.focuscraft.focus_table_wood": "Wooden Focus Table",
+  "block.focuscraft.focus_table_stone": "Stone Focus Table",
+  "itemGroup.focuscraftTab": "FocusCraft Items"
+}

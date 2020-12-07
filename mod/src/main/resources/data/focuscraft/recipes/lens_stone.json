@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " S ",
+    "SGS",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result":
+  {
+    "item": "focuscraft:lens_stone",a
+    "count": 1
+  }
+}
