@@ -1,7 +1,7 @@
 package net.sperly.focuscraft.items;
 
-public class FocusBatteryStone extends FocusBattery {
-    public FocusBatteryStone() {
-        super(BatteryType.STONE);
+public class FocusBatteryDiamond extends FocusBattery {
+    public FocusBatteryDiamond() {
+        super(BatteryType.DIAMOND);
     }
 }

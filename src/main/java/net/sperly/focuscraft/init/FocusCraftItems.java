@@ -7,6 +7,8 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.sperly.focuscraft.FocusCraft;
 import net.sperly.focuscraft.blocks.BlockItemBase;
+import net.sperly.focuscraft.items.FocusBattery;
+import net.sperly.focuscraft.items.FocusBatteryStone;
 import net.sperly.focuscraft.items.FocusBatteryWood;
 
 public class FocusCraftItems {
@@ -26,7 +28,11 @@ public class FocusCraftItems {
     public static final RegistryObject<Item> LENS_STONE = ITEMS.register("lens_stone", () -> new Item(new Item.Properties().maxStackSize(1).group(FocusCraft.TAB)));
 
     //Complex Items
-    public static final RegistryObject<Item> BATTERY_WOOD = ITEMS.register("battery_wood", () -> new FocusBatteryWood());
+    public static final RegistryObject<Item> BATTERY_WOOD = ITEMS.register("focus_battery_wood", () -> new FocusBatteryWood());
+    public static final RegistryObject<Item> BATTERY_STONE = ITEMS.register("focus_battery_stone", () -> new FocusBatteryStone());
+    public static final RegistryObject<Item> BATTERY_IRON = ITEMS.register("focus_battery_iron", () -> new FocusBattery(FocusBattery.BatteryType.IRON));
+    public static final RegistryObject<Item> BATTERY_DIAMOND = ITEMS.register("focus_battery_diamond", () -> new FocusBattery(FocusBattery.BatteryType.DIAMOND));
+
 
 
     //BlockItems

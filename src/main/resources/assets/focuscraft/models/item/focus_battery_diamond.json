@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "focuscraft:items/focus_battery_wood"
+    "layer0": "focuscraft:items/focus_battery_diamond"
   }
 }
