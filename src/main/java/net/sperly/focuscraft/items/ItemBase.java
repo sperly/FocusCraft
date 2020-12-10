@@ -9,6 +9,10 @@ public class ItemBase extends Item {
         super(new Item.Properties().group(FocusCraft.TAB).maxStackSize(stacksize));
     }
 
+    public ItemBase(int stacksize, int maxdamage) {
+        super(new Item.Properties().group(FocusCraft.TAB).maxStackSize(stacksize).maxDamage(maxdamage));
+    }
+
     public ItemBase() {
         super(new Item.Properties().group(FocusCraft.TAB));
     }

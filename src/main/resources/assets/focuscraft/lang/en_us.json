@@ -3,6 +3,8 @@
   "item.focuscraft.lens_holder": "Lens Holder",
   "item.focuscraft.lens_wood": "Wooden Lens",
   "item.focuscraft.lens_stone": "Stone Lens",
+  "item.focuscraft.focus_battery.wood": "Wooden Battery(%s)",
+  "block.focuscraft.crystal_ore": "Focus Crystal Ore",
   "block.focuscraft.crystal_block": "Focus Crystal Block",
   "block.focuscraft.focus_table_wood": "Wooden Focus Table",
   "block.focuscraft.focus_table_stone": "Stone Focus Table",
